@@ -1,6 +1,6 @@
 This repository contains my Software Engineering 1 Continuous Assessment assignment, completed in the second year of my Computer Science degree at TU Dublin.
 
-## Project Overview
+# Project Overview
 
 This project features comprehensive **UML modeling** for a library system, developed using **StarUML**. The assignment includes the following UML diagrams, which collectively represent the system's functionality and structure:
 
